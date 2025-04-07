@@ -33,7 +33,15 @@ namespace Zoo
             lionEnclosure.DisplayDetails();
             parrotEnclosure.DisplayDetails();
 
+            Console.WriteLine("\nЗвуки тварин:");
+            foreach (var animal in lionEnclosure.Animals)
+                animal.MakeSound();
+
+            foreach (var animal in parrotEnclosure.Animals)
+                animal.MakeSound();
+
             inventory.DisplayInfo();
         }
+
     }
 }
