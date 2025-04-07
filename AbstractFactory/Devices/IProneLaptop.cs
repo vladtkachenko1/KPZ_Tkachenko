@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AbstractFactory
+namespace AbstractFactory.Devices
 {
-    public class IProneSmartphone : AbstractDevice
+    public class IProneLaptop : AbstractDevice
     {
-        public override string GetDeviceType() => "Смартфон";
+        public override string GetDeviceType() => "Ноутбук";
         public override string GetBrand() => "IProne";
     }
 }

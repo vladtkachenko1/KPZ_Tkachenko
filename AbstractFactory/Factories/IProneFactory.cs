@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using AbstractFactory.Devices;
 
-namespace AbstractFactory
+namespace AbstractFactory.Factories
 {
     public class IProneFactory : DeviceFactory
     {
