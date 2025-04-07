@@ -7,7 +7,6 @@ C:\Users\User\OneDrive\Рабочий стол\Політех\2 курс\КПЗ\
 C:\Users\User\OneDrive\Рабочий стол\Політех\2 курс\КПЗ\Lab1\Zoo\Zoo\obj\Debug\net8.0\Zoo.AssemblyInfoInputs.cache
 C:\Users\User\OneDrive\Рабочий стол\Політех\2 курс\КПЗ\Lab1\Zoo\Zoo\obj\Debug\net8.0\Zoo.AssemblyInfo.cs
 C:\Users\User\OneDrive\Рабочий стол\Політех\2 курс\КПЗ\Lab1\Zoo\Zoo\obj\Debug\net8.0\Zoo.csproj.CoreCompileInputs.cache
-C:\Users\User\OneDrive\Рабочий стол\Політех\2 курс\КПЗ\Lab1\Zoo\Zoo\obj\Debug\net8.0\Zoo.sourcelink.json
 C:\Users\User\OneDrive\Рабочий стол\Політех\2 курс\КПЗ\Lab1\Zoo\Zoo\obj\Debug\net8.0\Zoo.dll
 C:\Users\User\OneDrive\Рабочий стол\Політех\2 курс\КПЗ\Lab1\Zoo\Zoo\obj\Debug\net8.0\refint\Zoo.dll
 C:\Users\User\OneDrive\Рабочий стол\Політех\2 курс\КПЗ\Lab1\Zoo\Zoo\obj\Debug\net8.0\Zoo.pdb
