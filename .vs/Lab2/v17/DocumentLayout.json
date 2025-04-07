@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u041A\u041F\u0417\\Lab2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5EA34AE8-DDBD-4BE9-8122-844E87E28078}|FactoryMet\u0440od\\FactoryMethod.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0437\\lab2\\factorymet\u0440od\\discountedsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5EA34AE8-DDBD-4BE9-8122-844E87E28078}|FactoryMet\u0440od\\FactoryMethod.csproj|solutionrelative:factorymet\u0440od\\discountedsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5EA34AE8-DDBD-4BE9-8122-844E87E28078}|FactoryMet\u0440od\\FactoryMethod.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0437\\lab2\\factorymet\u0440od\\premiumsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EA34AE8-DDBD-4BE9-8122-844E87E28078}|FactoryMet\u0440od\\FactoryMethod.csproj|solutionrelative:factorymet\u0440od\\premiumsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA34AE8-DDBD-4BE9-8122-844E87E28078}|FactoryMet\u0440od\\FactoryMethod.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0437\\lab2\\factorymet\u0440od\\isubscriptioncreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EA34AE8-DDBD-4BE9-8122-844E87E28078}|FactoryMet\u0440od\\FactoryMethod.csproj|solutionrelative:factorymet\u0440od\\isubscriptioncreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5EA34AE8-DDBD-4BE9-8122-844E87E28078}|FactoryMet\u0440od\\FactoryMethod.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0437\\lab2\\factorymet\u0440od\\managercallcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5EA34AE8-DDBD-4BE9-8122-844E87E28078}|FactoryMet\u0440od\\FactoryMethod.csproj|solutionrelative:factorymet\u0440od\\managercallcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA34AE8-DDBD-4BE9-8122-844E87E28078}|FactoryMet\u0440od\\FactoryMethod.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0437\\lab2\\factorymet\u0440od\\domesticsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EA34AE8-DDBD-4BE9-8122-844E87E28078}|FactoryMet\u0440od\\FactoryMethod.csproj|solutionrelative:factorymet\u0440od\\domesticsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA34AE8-DDBD-4BE9-8122-844E87E28078}|FactoryMet\u0440od\\FactoryMethod.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0437\\lab2\\factorymet\u0440od\\discountedsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EA34AE8-DDBD-4BE9-8122-844E87E28078}|FactoryMet\u0440od\\FactoryMethod.csproj|solutionrelative:factorymet\u0440od\\discountedsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA34AE8-DDBD-4BE9-8122-844E87E28078}|FactoryMet\u0440od\\FactoryMethod.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0437\\lab2\\factorymet\u0440od\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EA34AE8-DDBD-4BE9-8122-844E87E28078}|FactoryMet\u0440od\\FactoryMethod.csproj|solutionrelative:factorymet\u0440od\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5EA34AE8-DDBD-4BE9-8122-844E87E28078}|FactoryMet\u0440od\\FactoryMethod.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0437\\lab2\\factorymet\u0440od\\mobileappcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,28 +35,12 @@
       "RelativeMoniker": "D:0:0:{5EA34AE8-DDBD-4BE9-8122-844E87E28078}|FactoryMet\u0440od\\FactoryMethod.csproj|solutionrelative:factorymet\u0440od\\websitecreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EA34AE8-DDBD-4BE9-8122-844E87E28078}|FactoryMet\u0440od\\FactoryMethod.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0437\\lab2\\factorymet\u0440od\\isubscriptioncreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5EA34AE8-DDBD-4BE9-8122-844E87E28078}|FactoryMet\u0440od\\FactoryMethod.csproj|solutionrelative:factorymet\u0440od\\isubscriptioncreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5EA34AE8-DDBD-4BE9-8122-844E87E28078}|FactoryMet\u0440od\\FactoryMethod.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0437\\lab2\\factorymet\u0440od\\premiumsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5EA34AE8-DDBD-4BE9-8122-844E87E28078}|FactoryMet\u0440od\\FactoryMethod.csproj|solutionrelative:factorymet\u0440od\\premiumsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5EA34AE8-DDBD-4BE9-8122-844E87E28078}|FactoryMet\u0440od\\FactoryMethod.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0437\\lab2\\factorymet\u0440od\\educationalsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5EA34AE8-DDBD-4BE9-8122-844E87E28078}|FactoryMet\u0440od\\FactoryMethod.csproj|solutionrelative:factorymet\u0440od\\educationalsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EA34AE8-DDBD-4BE9-8122-844E87E28078}|FactoryMet\u0440od\\FactoryMethod.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0437\\lab2\\factorymet\u0440od\\domesticsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5EA34AE8-DDBD-4BE9-8122-844E87E28078}|FactoryMet\u0440od\\FactoryMethod.csproj|solutionrelative:factorymet\u0440od\\domesticsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5EA34AE8-DDBD-4BE9-8122-844E87E28078}|FactoryMet\u0440od\\FactoryMethod.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0437\\lab2\\factorymet\u0440od\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5EA34AE8-DDBD-4BE9-8122-844E87E28078}|FactoryMet\u0440od\\FactoryMethod.csproj|solutionrelative:factorymet\u0440od\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5EA34AE8-DDBD-4BE9-8122-844E87E28078}|FactoryMet\u0440od\\FactoryMethod.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0437\\lab2\\factorymet\u0440od\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5EA34AE8-DDBD-4BE9-8122-844E87E28078}|FactoryMet\u0440od\\FactoryMethod.csproj|solutionrelative:factorymet\u0440od\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,7 +66,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "DiscountedSubscription.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u041A\u041F\u0417\\Lab2\\FactoryMet\u0440od\\DiscountedSubscription.cs",
               "RelativeDocumentMoniker": "FactoryMet\u0440od\\DiscountedSubscription.cs",
@@ -80,6 +80,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ISubscriptionCreator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u041A\u041F\u0417\\Lab2\\FactoryMet\u0440od\\ISubscriptionCreator.cs",
+              "RelativeDocumentMoniker": "FactoryMet\u0440od\\ISubscriptionCreator.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u041A\u041F\u0417\\Lab2\\FactoryMet\u0440od\\ISubscriptionCreator.cs",
+              "RelativeToolTip": "FactoryMet\u0440od\\ISubscriptionCreator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T22:01:52.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PremiumSubscription.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u041A\u041F\u0417\\Lab2\\FactoryMet\u0440od\\PremiumSubscription.cs",
+              "RelativeDocumentMoniker": "FactoryMet\u0440od\\PremiumSubscription.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u041A\u041F\u0417\\Lab2\\FactoryMet\u0440od\\PremiumSubscription.cs",
+              "RelativeToolTip": "FactoryMet\u0440od\\PremiumSubscription.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T21:56:45.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u041A\u041F\u0417\\Lab2\\FactoryMet\u0440od\\Program.cs",
+              "RelativeDocumentMoniker": "FactoryMet\u0440od\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u041A\u041F\u0417\\Lab2\\FactoryMet\u0440od\\Program.cs",
+              "RelativeToolTip": "FactoryMet\u0440od\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T20:47:12.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ManagerCallCreator.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u041A\u041F\u0417\\Lab2\\FactoryMet\u0440od\\ManagerCallCreator.cs",
               "RelativeDocumentMoniker": "FactoryMet\u0440od\\ManagerCallCreator.cs",
@@ -92,20 +131,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MobileAppCreator.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u041A\u041F\u0417\\Lab2\\FactoryMet\u0440od\\MobileAppCreator.cs",
-              "RelativeDocumentMoniker": "FactoryMet\u0440od\\MobileAppCreator.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u041A\u041F\u0417\\Lab2\\FactoryMet\u0440od\\MobileAppCreator.cs",
-              "RelativeToolTip": "FactoryMet\u0440od\\MobileAppCreator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAFAAAA",
+              "DocumentIndex": 3,
+              "Title": "DomesticSubscription.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u041A\u041F\u0417\\Lab2\\FactoryMet\u0440od\\DomesticSubscription.cs",
+              "RelativeDocumentMoniker": "FactoryMet\u0440od\\DomesticSubscription.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u041A\u041F\u0417\\Lab2\\FactoryMet\u0440od\\DomesticSubscription.cs",
+              "RelativeToolTip": "FactoryMet\u0440od\\DomesticSubscription.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T22:10:11.626Z",
+              "WhenOpened": "2025-04-07T21:55:21.584Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "WebsiteCreator.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u041A\u041F\u0417\\Lab2\\FactoryMet\u0440od\\WebsiteCreator.cs",
               "RelativeDocumentMoniker": "FactoryMet\u0440od\\WebsiteCreator.cs",
@@ -117,31 +156,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ISubscriptionCreator.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u041A\u041F\u0417\\Lab2\\FactoryMet\u0440od\\ISubscriptionCreator.cs",
-              "RelativeDocumentMoniker": "FactoryMet\u0440od\\ISubscriptionCreator.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u041A\u041F\u0417\\Lab2\\FactoryMet\u0440od\\ISubscriptionCreator.cs",
-              "RelativeToolTip": "FactoryMet\u0440od\\ISubscriptionCreator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T22:01:52.661Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PremiumSubscription.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u041A\u041F\u0417\\Lab2\\FactoryMet\u0440od\\PremiumSubscription.cs",
-              "RelativeDocumentMoniker": "FactoryMet\u0440od\\PremiumSubscription.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u041A\u041F\u0417\\Lab2\\FactoryMet\u0440od\\PremiumSubscription.cs",
-              "RelativeToolTip": "FactoryMet\u0440od\\PremiumSubscription.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T21:56:45.094Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "MobileAppCreator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u041A\u041F\u0417\\Lab2\\FactoryMet\u0440od\\MobileAppCreator.cs",
+              "RelativeDocumentMoniker": "FactoryMet\u0440od\\MobileAppCreator.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u041A\u041F\u0417\\Lab2\\FactoryMet\u0440od\\MobileAppCreator.cs",
+              "RelativeToolTip": "FactoryMet\u0440od\\MobileAppCreator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T22:10:11.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "EducationalSubscription.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u041A\u041F\u0417\\Lab2\\FactoryMet\u0440od\\EducationalSubscription.cs",
               "RelativeDocumentMoniker": "FactoryMet\u0440od\\EducationalSubscription.cs",
@@ -153,19 +180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DomesticSubscription.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u041A\u041F\u0417\\Lab2\\FactoryMet\u0440od\\DomesticSubscription.cs",
-              "RelativeDocumentMoniker": "FactoryMet\u0440od\\DomesticSubscription.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u041A\u041F\u0417\\Lab2\\FactoryMet\u0440od\\DomesticSubscription.cs",
-              "RelativeToolTip": "FactoryMet\u0440od\\DomesticSubscription.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T21:55:21.584Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Subscription.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u041A\u041F\u0417\\Lab2\\FactoryMet\u0440od\\Subscription.cs",
               "RelativeDocumentMoniker": "FactoryMet\u0440od\\Subscription.cs",
@@ -174,18 +189,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-07T20:47:51.51Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u041A\u041F\u0417\\Lab2\\FactoryMet\u0440od\\Program.cs",
-              "RelativeDocumentMoniker": "FactoryMet\u0440od\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u041A\u041F\u0417\\Lab2\\FactoryMet\u0440od\\Program.cs",
-              "RelativeToolTip": "FactoryMet\u0440od\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T20:47:12.726Z"
             }
           ]
         }
