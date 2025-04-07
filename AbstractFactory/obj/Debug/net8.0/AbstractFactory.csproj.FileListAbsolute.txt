@@ -1,0 +1,4 @@
+C:\Users\User\OneDrive\Рабочий стол\Політех\2 курс\КПЗ\Lab2\AbstractFactory\obj\Debug\net8.0\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Рабочий стол\Політех\2 курс\КПЗ\Lab2\AbstractFactory\obj\Debug\net8.0\AbstractFactory.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\Політех\2 курс\КПЗ\Lab2\AbstractFactory\obj\Debug\net8.0\AbstractFactory.AssemblyInfo.cs
+C:\Users\User\OneDrive\Рабочий стол\Політех\2 курс\КПЗ\Lab2\AbstractFactory\obj\Debug\net8.0\AbstractFactory.csproj.CoreCompileInputs.cache

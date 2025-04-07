@@ -3,12 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u041A\u041F\u0417\\Lab2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{17523380-4D39-4D90-8D9C-872AA55B8B2B}|AbstractFactory\\AbstractFactory.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0437\\lab2\\abstractfactory\\factories\\kiaomifactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17523380-4D39-4D90-8D9C-872AA55B8B2B}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\factories\\kiaomifactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{17523380-4D39-4D90-8D9C-872AA55B8B2B}|AbstractFactory\\AbstractFactory.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0437\\lab2\\abstractfactory\\factories\\balaxyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{17523380-4D39-4D90-8D9C-872AA55B8B2B}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\factories\\balaxyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{17523380-4D39-4D90-8D9C-872AA55B8B2B}|AbstractFactory\\AbstractFactory.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0437\\lab2\\abstractfactory\\factories\\kiaomifactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17523380-4D39-4D90-8D9C-872AA55B8B2B}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\factories\\kiaomifactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{17523380-4D39-4D90-8D9C-872AA55B8B2B}|AbstractFactory\\AbstractFactory.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0437\\lab2\\abstractfactory\\devices\\balaxyebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17523380-4D39-4D90-8D9C-872AA55B8B2B}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\devices\\balaxyebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17523380-4D39-4D90-8D9C-872AA55B8B2B}|AbstractFactory\\AbstractFactory.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0437\\lab2\\abstractfactory\\devices\\balaxynetbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17523380-4D39-4D90-8D9C-872AA55B8B2B}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\devices\\balaxynetbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17523380-4D39-4D90-8D9C-872AA55B8B2B}|AbstractFactory\\AbstractFactory.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0437\\lab2\\abstractfactory\\devices\\balaxysmartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17523380-4D39-4D90-8D9C-872AA55B8B2B}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\devices\\balaxysmartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17523380-4D39-4D90-8D9C-872AA55B8B2B}|AbstractFactory\\AbstractFactory.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0437\\lab2\\abstractfactory\\devices\\balaxylaptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17523380-4D39-4D90-8D9C-872AA55B8B2B}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\devices\\balaxylaptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17523380-4D39-4D90-8D9C-872AA55B8B2B}|AbstractFactory\\AbstractFactory.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0437\\lab2\\abstractfactory\\devices\\kiaomiebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17523380-4D39-4D90-8D9C-872AA55B8B2B}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\devices\\kiaomiebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17523380-4D39-4D90-8D9C-872AA55B8B2B}|AbstractFactory\\AbstractFactory.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0437\\lab2\\abstractfactory\\devices\\kiaominetbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17523380-4D39-4D90-8D9C-872AA55B8B2B}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\devices\\kiaominetbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17523380-4D39-4D90-8D9C-872AA55B8B2B}|AbstractFactory\\AbstractFactory.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0437\\lab2\\abstractfactory\\devices\\kiaomismartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17523380-4D39-4D90-8D9C-872AA55B8B2B}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\devices\\kiaomismartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17523380-4D39-4D90-8D9C-872AA55B8B2B}|AbstractFactory\\AbstractFactory.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0437\\lab2\\abstractfactory\\devices\\kiaomilaptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17523380-4D39-4D90-8D9C-872AA55B8B2B}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\devices\\kiaomilaptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{17523380-4D39-4D90-8D9C-872AA55B8B2B}|AbstractFactory\\AbstractFactory.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0437\\lab2\\abstractfactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,33 +70,137 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "BalaxyEBook.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u041A\u041F\u0417\\Lab2\\AbstractFactory\\Devices\\BalaxyEBook.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Devices\\BalaxyEBook.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u041A\u041F\u0417\\Lab2\\AbstractFactory\\Devices\\BalaxyEBook.cs",
+              "RelativeToolTip": "AbstractFactory\\Devices\\BalaxyEBook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T22:53:29.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BalaxyNetbook.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u041A\u041F\u0417\\Lab2\\AbstractFactory\\Devices\\BalaxyNetbook.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Devices\\BalaxyNetbook.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u041A\u041F\u0417\\Lab2\\AbstractFactory\\Devices\\BalaxyNetbook.cs",
+              "RelativeToolTip": "AbstractFactory\\Devices\\BalaxyNetbook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T22:53:10.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BalaxySmartphone.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u041A\u041F\u0417\\Lab2\\AbstractFactory\\Devices\\BalaxySmartphone.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Devices\\BalaxySmartphone.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u041A\u041F\u0417\\Lab2\\AbstractFactory\\Devices\\BalaxySmartphone.cs",
+              "RelativeToolTip": "AbstractFactory\\Devices\\BalaxySmartphone.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T22:52:53.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BalaxyLaptop.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u041A\u041F\u0417\\Lab2\\AbstractFactory\\Devices\\BalaxyLaptop.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Devices\\BalaxyLaptop.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u041A\u041F\u0417\\Lab2\\AbstractFactory\\Devices\\BalaxyLaptop.cs",
+              "RelativeToolTip": "AbstractFactory\\Devices\\BalaxyLaptop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T22:52:30.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KiaomiEBook.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u041A\u041F\u0417\\Lab2\\AbstractFactory\\Devices\\KiaomiEBook.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Devices\\KiaomiEBook.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u041A\u041F\u0417\\Lab2\\AbstractFactory\\Devices\\KiaomiEBook.cs",
+              "RelativeToolTip": "AbstractFactory\\Devices\\KiaomiEBook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T22:52:07.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "BalaxyFactory.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u041A\u041F\u0417\\Lab2\\AbstractFactory\\Factories\\BalaxyFactory.cs",
               "RelativeDocumentMoniker": "AbstractFactory\\Factories\\BalaxyFactory.cs",
               "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u041A\u041F\u0417\\Lab2\\AbstractFactory\\Factories\\BalaxyFactory.cs",
               "RelativeToolTip": "AbstractFactory\\Factories\\BalaxyFactory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-07T22:49:20.084Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "KiaomiFactory.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u041A\u041F\u0417\\Lab2\\AbstractFactory\\Factories\\KiaomiFactory.cs",
               "RelativeDocumentMoniker": "AbstractFactory\\Factories\\KiaomiFactory.cs",
               "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u041A\u041F\u0417\\Lab2\\AbstractFactory\\Factories\\KiaomiFactory.cs",
               "RelativeToolTip": "AbstractFactory\\Factories\\KiaomiFactory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAewAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-07T22:48:56.392Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
+              "Title": "KiaomiNetbook.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u041A\u041F\u0417\\Lab2\\AbstractFactory\\Devices\\KiaomiNetbook.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Devices\\KiaomiNetbook.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u041A\u041F\u0417\\Lab2\\AbstractFactory\\Devices\\KiaomiNetbook.cs",
+              "RelativeToolTip": "AbstractFactory\\Devices\\KiaomiNetbook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T22:51:48.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KiaomiSmartphone.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u041A\u041F\u0417\\Lab2\\AbstractFactory\\Devices\\KiaomiSmartphone.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Devices\\KiaomiSmartphone.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u041A\u041F\u0417\\Lab2\\AbstractFactory\\Devices\\KiaomiSmartphone.cs",
+              "RelativeToolTip": "AbstractFactory\\Devices\\KiaomiSmartphone.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T22:51:29.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "KiaomiLaptop.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u041A\u041F\u0417\\Lab2\\AbstractFactory\\Devices\\KiaomiLaptop.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Devices\\KiaomiLaptop.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u041A\u041F\u0417\\Lab2\\AbstractFactory\\Devices\\KiaomiLaptop.cs",
+              "RelativeToolTip": "AbstractFactory\\Devices\\KiaomiLaptop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T22:51:10.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u041A\u041F\u0417\\Lab2\\AbstractFactory\\Program.cs",
               "RelativeDocumentMoniker": "AbstractFactory\\Program.cs",
@@ -72,8 +208,7 @@
               "RelativeToolTip": "AbstractFactory\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T22:24:27.971Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T22:24:27.971Z"
             }
           ]
         }
