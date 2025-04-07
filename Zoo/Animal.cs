@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Zoo
 {
-// Абстрактний клас для тварин (S - Single Responsibility)
-abstract class Animal
-{
+    // Абстрактний клас для тварин (S - Single Responsibility)
+    public abstract class Animal
+    {
     public string Name { get; set; }
     public string Species { get; set; }
     public string Diet { get; set; }
@@ -21,5 +21,5 @@ abstract class Animal
     }
 
     public abstract void MakeSound();
-}
-}
+    }
+}   
