@@ -11,3 +11,4 @@ namespace AbstractFactory
         public override string GetDeviceType() => "Нетбук";
         public override string GetBrand() => "IProne";
     }
+}
