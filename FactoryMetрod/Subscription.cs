@@ -11,13 +11,15 @@ namespace FactoryMetрod
         public abstract decimal MonthlyFee { get; }
         public abstract int MinPeriodMonths { get; }
         public abstract List<string> Channels { get; }
+        public abstract List<string> Features { get; }
 
         public void ShowInfo()
         {
-            Console.WriteLine($"Subscription: {GetType().Name}");
-            Console.WriteLine($"Monthly Fee: {MonthlyFee:C}");
-            Console.WriteLine($"Min Period: {MinPeriodMonths} months");
-            Console.WriteLine("Channels: " + string.Join(", ", Channels));
+            Console.WriteLine($"Тип підписки: {GetType().Name}");
+            Console.WriteLine($"Місячна плата: {MonthlyFee:C}");
+            Console.WriteLine($"Мінімальний період: {MinPeriodMonths} місяців");
+            Console.WriteLine("Канали: " + string.Join(", ", Channels));
+            Console.WriteLine("Можливості: " + string.Join(", ", Features));
             Console.WriteLine();
         }
     }

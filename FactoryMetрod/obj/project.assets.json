@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\OneDrive\\Рабочий стол\\Політех\\2 курс\\КПЗ\\Lab2\\FactoryMetрod\\FactoryMetрod.csproj",
-      "projectName": "FactoryMetрod",
-      "projectPath": "C:\\Users\\User\\OneDrive\\Рабочий стол\\Політех\\2 курс\\КПЗ\\Lab2\\FactoryMetрod\\FactoryMetрod.csproj",
+      "projectUniqueName": "C:\\Users\\User\\OneDrive\\Рабочий стол\\Політех\\2 курс\\КПЗ\\Lab2\\FactoryMetрod\\FactoryMethod.csproj",
+      "projectName": "FactoryMethod",
+      "projectPath": "C:\\Users\\User\\OneDrive\\Рабочий стол\\Політех\\2 курс\\КПЗ\\Lab2\\FactoryMetрod\\FactoryMethod.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\User\\OneDrive\\Рабочий стол\\Політех\\2 курс\\КПЗ\\Lab2\\FactoryMetрod\\obj\\",
       "projectStyle": "PackageReference",
