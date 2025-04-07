@@ -51,6 +51,10 @@ Though interfaces aren't explicitly defined in this simple model, the use of the
 `AddAnimal()` method immediately reports when the enclosure is full:
 - [`EnclosureBase.cs#L22-L27`](./EnclosureBase.cs#L22-L27): checks capacity before proceeding.
 
+
+## Сlass diagram:
+![UML Діаграма](diagram.png)
+
 ---
 
 Creator: Tkachenko Vlad IPZ 23-2
