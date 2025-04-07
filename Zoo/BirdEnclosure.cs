@@ -8,7 +8,7 @@ namespace Zoo
 {
     class BirdEnclosure : EnclosureBase
     {
-        public BirdEnclosure(int capacity) : base("Пташиний", capacity) { }
+        public BirdEnclosure(int capacity) : base("Вольєр для птахів", capacity) { }
 
         public override void DisplayDetails()
         {

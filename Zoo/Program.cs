@@ -15,24 +15,23 @@ namespace Zoo
             Mammal lion = new Mammal("Лев", "Panthera leo", "М'ясоїд");
             Bird parrot = new Bird("Папуга", "Ara", "Всеїдний");
 
-            Enclosure largeEnclosure = new Enclosure("Великий", 2);
-            largeEnclosure.AddAnimal(lion);
-            largeEnclosure.AddAnimal(parrot);
+            EnclosureBase lionEnclosure = new MammalEnclosure(2);
+            EnclosureBase parrotEnclosure = new BirdEnclosure(2);
+
+            lionEnclosure.AddAnimal(lion);
+            parrotEnclosure.AddAnimal(parrot);
 
             ZooWorker worker1 = new ZooWorker("Олексій", "Доглядач");
             ZooWorker worker2 = new ZooWorker("Марина", "Ветеринар");
 
             Inventory inventory = new Inventory();
-            inventory.Animals.AddRange(largeEnclosure.Animals);
+            inventory.Animals.AddRange(lionEnclosure.Animals);
+            inventory.Animals.AddRange(parrotEnclosure.Animals);
             inventory.Workers.Add(worker1);
             inventory.Workers.Add(worker2);
 
-            Console.WriteLine($"Кількість тварин у вольєрі: {largeEnclosure.Animals.Count}");
-
-            foreach (var animal in largeEnclosure.Animals)
-            {
-                animal.MakeSound();
-            }
+            lionEnclosure.DisplayDetails();
+            parrotEnclosure.DisplayDetails();
 
             inventory.DisplayInfo();
         }

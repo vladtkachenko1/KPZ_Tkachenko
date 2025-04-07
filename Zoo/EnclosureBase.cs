@@ -18,7 +18,7 @@ namespace Zoo
             Capacity = capacity;
         }
 
-        public virtual void AddAnimal(Animal animal)
+        public void AddAnimal(Animal animal)
         {
             if (Animals.Count < Capacity)
             {
@@ -31,6 +31,6 @@ namespace Zoo
             }
         }
 
-        public abstract void DisplayDetails();
+        public abstract void DisplayDetails(); 
     }
 }
