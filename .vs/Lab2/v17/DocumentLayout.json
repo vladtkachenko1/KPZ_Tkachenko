@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u041A\u041F\u0417\\Lab2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2ACC8DF1-3E69-41B1-A0C4-6C1AC60F1A57}|Builder\\Builder.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0437\\lab2\\builder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ACC8DF1-3E69-41B1-A0C4-6C1AC60F1A57}|Builder\\Builder.csproj|solutionrelative:builder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ACC8DF1-3E69-41B1-A0C4-6C1AC60F1A57}|Builder\\Builder.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0437\\lab2\\builder\\icharacterbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ACC8DF1-3E69-41B1-A0C4-6C1AC60F1A57}|Builder\\Builder.csproj|solutionrelative:builder\\icharacterbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2ACC8DF1-3E69-41B1-A0C4-6C1AC60F1A57}|Builder\\Builder.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0437\\lab2\\builder\\enemybuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2ACC8DF1-3E69-41B1-A0C4-6C1AC60F1A57}|Builder\\Builder.csproj|solutionrelative:builder\\enemybuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ACC8DF1-3E69-41B1-A0C4-6C1AC60F1A57}|Builder\\Builder.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0437\\lab2\\builder\\characterdirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ACC8DF1-3E69-41B1-A0C4-6C1AC60F1A57}|Builder\\Builder.csproj|solutionrelative:builder\\characterdirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2ACC8DF1-3E69-41B1-A0C4-6C1AC60F1A57}|Builder\\Builder.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0437\\lab2\\builder\\herobuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,14 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2ACC8DF1-3E69-41B1-A0C4-6C1AC60F1A57}|Builder\\Builder.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0437\\lab2\\builder\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2ACC8DF1-3E69-41B1-A0C4-6C1AC60F1A57}|Builder\\Builder.csproj|solutionrelative:builder\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2ACC8DF1-3E69-41B1-A0C4-6C1AC60F1A57}|Builder\\Builder.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0437\\lab2\\builder\\icharacterbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2ACC8DF1-3E69-41B1-A0C4-6C1AC60F1A57}|Builder\\Builder.csproj|solutionrelative:builder\\icharacterbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2ACC8DF1-3E69-41B1-A0C4-6C1AC60F1A57}|Builder\\Builder.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0437\\lab2\\builder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2ACC8DF1-3E69-41B1-A0C4-6C1AC60F1A57}|Builder\\Builder.csproj|solutionrelative:builder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,20 +50,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "CharacterDirector.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u041A\u041F\u0417\\Lab2\\Builder\\CharacterDirector.cs",
+              "RelativeDocumentMoniker": "Builder\\CharacterDirector.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u041A\u041F\u0417\\Lab2\\Builder\\CharacterDirector.cs",
+              "RelativeToolTip": "Builder\\CharacterDirector.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T12:38:48.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "EnemyBuilder.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u041A\u041F\u0417\\Lab2\\Builder\\EnemyBuilder.cs",
               "RelativeDocumentMoniker": "Builder\\EnemyBuilder.cs",
               "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u041A\u041F\u0417\\Lab2\\Builder\\EnemyBuilder.cs",
               "RelativeToolTip": "Builder\\EnemyBuilder.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T12:33:38.59Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "HeroBuilder.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u041A\u041F\u0417\\Lab2\\Builder\\HeroBuilder.cs",
               "RelativeDocumentMoniker": "Builder\\HeroBuilder.cs",
@@ -72,20 +89,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Character.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u041A\u041F\u0417\\Lab2\\Builder\\Character.cs",
               "RelativeDocumentMoniker": "Builder\\Character.cs",
               "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u041A\u041F\u0417\\Lab2\\Builder\\Character.cs",
               "RelativeToolTip": "Builder\\Character.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAFAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCIAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T12:23:54.506Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "ICharacterBuilder.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u041A\u041F\u0417\\Lab2\\Builder\\ICharacterBuilder.cs",
               "RelativeDocumentMoniker": "Builder\\ICharacterBuilder.cs",
@@ -93,19 +110,21 @@
               "RelativeToolTip": "Builder\\ICharacterBuilder.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T12:22:46.976Z"
+              "WhenOpened": "2025-04-08T12:22:46.976Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u041A\u041F\u0417\\Lab2\\Builder\\Program.cs",
               "RelativeDocumentMoniker": "Builder\\Program.cs",
               "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u041A\u041F\u0417\\Lab2\\Builder\\Program.cs",
               "RelativeToolTip": "Builder\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T12:15:42.926Z"
+              "WhenOpened": "2025-04-08T12:15:42.926Z",
+              "EditorCaption": ""
             }
           ]
         }
