@@ -5,7 +5,9 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactoryMethod", "FactoryMetрod\FactoryMethod.csproj", "{5EA34AE8-DDBD-4BE9-8122-844E87E28078}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactory", "AbstractFactory\AbstractFactory.csproj", "{17523380-4D39-4D90-8D9C-872AA55B8B2B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractFactory", "AbstractFactory\AbstractFactory.csproj", "{17523380-4D39-4D90-8D9C-872AA55B8B2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Authenticator", "Authenticator\Authenticator.csproj", "{0D7CEA27-A72C-45DF-9B93-0D8381BA05DD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{17523380-4D39-4D90-8D9C-872AA55B8B2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17523380-4D39-4D90-8D9C-872AA55B8B2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17523380-4D39-4D90-8D9C-872AA55B8B2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D7CEA27-A72C-45DF-9B93-0D8381BA05DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D7CEA27-A72C-45DF-9B93-0D8381BA05DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D7CEA27-A72C-45DF-9B93-0D8381BA05DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D7CEA27-A72C-45DF-9B93-0D8381BA05DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
