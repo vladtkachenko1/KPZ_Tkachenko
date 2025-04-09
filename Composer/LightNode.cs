@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Composer
 {
-    abstract class LightNode
+    public abstract class LightNode
     {
         public abstract string OuterHTML();
         public abstract string InnerHTML();

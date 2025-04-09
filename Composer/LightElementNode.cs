@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Composer
 {
-    class LightElementNode : LightNode
+    public class LightElementNode : LightNode
     {
         public string TagName { get; set; }
         public string DisplayType { get; set; }
@@ -60,4 +60,5 @@ namespace Composer
             return $"<{TagName}{classes}>{InnerHTML()}</{TagName}>";
         }
     }
+
 }
