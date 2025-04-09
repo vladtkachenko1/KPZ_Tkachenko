@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "Logger\Adapter.csproj", "{BD1849F1-DD54-4F2F-A193-B5017AFF013C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "task1", "task1", "{E875C91C-5C3A-4916-8813-0DDD0C0490A9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "task2", "task2", "{29301C03-AFEA-4A1B-AFFD-127600F64EC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD1849F1-DD54-4F2F-A193-B5017AFF013C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD1849F1-DD54-4F2F-A193-B5017AFF013C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD1849F1-DD54-4F2F-A193-B5017AFF013C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD1849F1-DD54-4F2F-A193-B5017AFF013C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BD1849F1-DD54-4F2F-A193-B5017AFF013C} = {E875C91C-5C3A-4916-8813-0DDD0C0490A9}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B1BD7E6-25F0-437F-9723-1E75C3E35A1E}
+	EndGlobalSection
+EndGlobal

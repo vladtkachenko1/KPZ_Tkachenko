@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Рабочий стол\Політех\2 курс\КПЗ\Lab3\Logger\bin\Debug\net8.0\Adapter.exe
+C:\Users\User\OneDrive\Рабочий стол\Політех\2 курс\КПЗ\Lab3\Logger\bin\Debug\net8.0\Adapter.deps.json
+C:\Users\User\OneDrive\Рабочий стол\Політех\2 курс\КПЗ\Lab3\Logger\bin\Debug\net8.0\Adapter.runtimeconfig.json
+C:\Users\User\OneDrive\Рабочий стол\Політех\2 курс\КПЗ\Lab3\Logger\bin\Debug\net8.0\Adapter.dll
+C:\Users\User\OneDrive\Рабочий стол\Політех\2 курс\КПЗ\Lab3\Logger\bin\Debug\net8.0\Adapter.pdb
+C:\Users\User\OneDrive\Рабочий стол\Політех\2 курс\КПЗ\Lab3\Logger\obj\Debug\net8.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Рабочий стол\Політех\2 курс\КПЗ\Lab3\Logger\obj\Debug\net8.0\Adapter.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\Політех\2 курс\КПЗ\Lab3\Logger\obj\Debug\net8.0\Adapter.AssemblyInfo.cs
+C:\Users\User\OneDrive\Рабочий стол\Політех\2 курс\КПЗ\Lab3\Logger\obj\Debug\net8.0\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\Політех\2 курс\КПЗ\Lab3\Logger\obj\Debug\net8.0\Adapter.sourcelink.json
+C:\Users\User\OneDrive\Рабочий стол\Політех\2 курс\КПЗ\Lab3\Logger\obj\Debug\net8.0\Adapter.dll
+C:\Users\User\OneDrive\Рабочий стол\Політех\2 курс\КПЗ\Lab3\Logger\obj\Debug\net8.0\refint\Adapter.dll
+C:\Users\User\OneDrive\Рабочий стол\Політех\2 курс\КПЗ\Lab3\Logger\obj\Debug\net8.0\Adapter.pdb
+C:\Users\User\OneDrive\Рабочий стол\Політех\2 курс\КПЗ\Lab3\Logger\obj\Debug\net8.0\Adapter.genruntimeconfig.cache
+C:\Users\User\OneDrive\Рабочий стол\Політех\2 курс\КПЗ\Lab3\Logger\obj\Debug\net8.0\ref\Adapter.dll

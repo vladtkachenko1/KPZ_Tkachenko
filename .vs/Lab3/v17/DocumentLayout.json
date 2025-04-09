@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u041A\u041F\u0417\\Lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1849F1-DD54-4F2F-A193-B5017AFF013C}|Logger\\Logger.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0437\\lab3\\logger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1849F1-DD54-4F2F-A193-B5017AFF013C}|Logger\\Logger.csproj|solutionrelative:logger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1849F1-DD54-4F2F-A193-B5017AFF013C}|Logger\\Adapter.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0437\\lab3\\logger\\filewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1849F1-DD54-4F2F-A193-B5017AFF013C}|Logger\\Adapter.csproj|solutionrelative:logger\\filewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1849F1-DD54-4F2F-A193-B5017AFF013C}|Logger\\Adapter.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0437\\lab3\\logger\\fileloggeradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1849F1-DD54-4F2F-A193-B5017AFF013C}|Logger\\Adapter.csproj|solutionrelative:logger\\fileloggeradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1849F1-DD54-4F2F-A193-B5017AFF013C}|Logger\\Adapter.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0437\\lab3\\logger\\iadvancedlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1849F1-DD54-4F2F-A193-B5017AFF013C}|Logger\\Adapter.csproj|solutionrelative:logger\\iadvancedlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1849F1-DD54-4F2F-A193-B5017AFF013C}|Logger\\Adapter.csproj|c:\\users\\user\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u043A\u043F\u0437\\lab3\\logger\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1849F1-DD54-4F2F-A193-B5017AFF013C}|Logger\\Adapter.csproj|solutionrelative:logger\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileLoggerAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u041A\u041F\u0417\\Lab3\\Logger\\FileLoggerAdapter.cs",
+              "RelativeDocumentMoniker": "Logger\\FileLoggerAdapter.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u041A\u041F\u0417\\Lab3\\Logger\\FileLoggerAdapter.cs",
+              "RelativeToolTip": "Logger\\FileLoggerAdapter.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T09:55:00.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAdvancedLogger.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u041A\u041F\u0417\\Lab3\\Logger\\IAdvancedLogger.cs",
+              "RelativeDocumentMoniker": "Logger\\IAdvancedLogger.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u041A\u041F\u0417\\Lab3\\Logger\\IAdvancedLogger.cs",
+              "RelativeToolTip": "Logger\\IAdvancedLogger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T09:54:43.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileWriter.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u041A\u041F\u0417\\Lab3\\Logger\\FileWriter.cs",
+              "RelativeDocumentMoniker": "Logger\\FileWriter.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u041A\u041F\u0417\\Lab3\\Logger\\FileWriter.cs",
+              "RelativeToolTip": "Logger\\FileWriter.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T09:44:49.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u041A\u041F\u0417\\Lab3\\Logger\\Logger.cs",
+              "RelativeDocumentMoniker": "Logger\\Logger.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u041A\u041F\u0417\\Lab3\\Logger\\Logger.cs",
+              "RelativeToolTip": "Logger\\Logger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAwwB4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T09:42:30.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u041A\u041F\u0417\\Lab3\\Logger\\Program.cs",
+              "RelativeDocumentMoniker": "Logger\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\2 \u043A\u0443\u0440\u0441\\\u041A\u041F\u0417\\Lab3\\Logger\\Program.cs",
+              "RelativeToolTip": "Logger\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T09:37:10.402Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
