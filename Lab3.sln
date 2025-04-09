@@ -9,9 +9,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "task1", "task1", "{E875C91C
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "task2", "task2", "{29301C03-AFEA-4A1B-AFFD-127600F64EC5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Decorator\Decorator.csproj", "{1F884527-A666-4E47-9492-DE8487A4A42A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Decorator", "Decorator\Decorator.csproj", "{1F884527-A666-4E47-9492-DE8487A4A42A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "task3", "task3", "{E768813E-E7F8-48B8-8321-10BB6D2C6219}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphicEditor", "GraphicEditor\GraphicEditor.csproj", "{12B68F6E-E190-4F12-942D-0BD741CAD624}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{1F884527-A666-4E47-9492-DE8487A4A42A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F884527-A666-4E47-9492-DE8487A4A42A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F884527-A666-4E47-9492-DE8487A4A42A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12B68F6E-E190-4F12-942D-0BD741CAD624}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12B68F6E-E190-4F12-942D-0BD741CAD624}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12B68F6E-E190-4F12-942D-0BD741CAD624}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12B68F6E-E190-4F12-942D-0BD741CAD624}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -34,6 +40,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{BD1849F1-DD54-4F2F-A193-B5017AFF013C} = {E875C91C-5C3A-4916-8813-0DDD0C0490A9}
 		{1F884527-A666-4E47-9492-DE8487A4A42A} = {29301C03-AFEA-4A1B-AFFD-127600F64EC5}
+		{12B68F6E-E190-4F12-942D-0BD741CAD624} = {E768813E-E7F8-48B8-8321-10BB6D2C6219}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1B1BD7E6-25F0-437F-9723-1E75C3E35A1E}
