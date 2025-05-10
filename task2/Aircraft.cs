@@ -1,43 +1,41 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace task2
 {
     class Aircraft
     {
         public string Name;
-        public Runway? CurrentRunway { get; set; }
         public bool IsTakingOff { get; set; }
-        public Aircraft(string name, int size)
+        public Runway? CurrentRunway { get; private set; }
+        private IAirTrafficMediator? _mediator;
+
+        public Aircraft(string name)
         {
-            this.Name = name;
+            Name = name;
         }
-        public void Land(Runway runway)
+
+        public void SetMediator(IAirTrafficMediator mediator)
         {
-            Console.WriteLine($"Aircraft {this.Name} is landing.");
-            Console.WriteLine($"Checking runway.");
-            if (runway.IsBusyWithAircraft == null)
-            {
-                Console.WriteLine($"Aircraft {this.Name} has landed.");
-                runway.IsBusyWithAircraft = this;
-                runway.HighLightRed();
-                this.CurrentRunway = runway;
-            }
-            else
-            {
-                Console.WriteLine($"Could not land, the runway is busy.");
-            }
+            _mediator = mediator;
         }
-        public void TakeOff(Runway runway)
+
+        public void SetRunway(Runway? runway)
         {
-            Console.WriteLine($"Aircraft {this.Name} is taking off.");
-            runway.IsBusyWithAircraft = null;
-            this.CurrentRunway = null;
-            runway.HighLightGreen();
-            Console.WriteLine($"Aircraft {this.Name} has took off.");
+            CurrentRunway = runway;
+        }
+
+        public void Land()
+        {
+            Console.WriteLine($"Aircraft {Name} requesting to land...");
+            _mediator?.RequestLanding(this);
+        }
+
+        public void TakeOff()
+        {
+            Console.WriteLine($"Aircraft {Name} requesting to take off...");
+            IsTakingOff = true;
+            _mediator?.RequestTakeOff(this);
+            IsTakingOff = false;
         }
     }
 }
