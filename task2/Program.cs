@@ -1,2 +1,25 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿
+using System;
+
+namespace task2
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            var runway1 = new Runway();
+            var runway2 = new Runway();
+            var aircraft1 = new Aircraft("Boeing 737");
+            var aircraft2 = new Aircraft("Airbus A320");
+
+            var commandCentre = new CommandCentre(new[] { runway1, runway2 }, new[] { aircraft1, aircraft2 });
+
+            aircraft1.Land();
+            aircraft2.Land();
+            aircraft1.TakeOff();
+            aircraft2.TakeOff();
+
+            Console.ReadLine();
+        }
+    }
+}
