@@ -1,35 +1,43 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace task2
 {
-        class Runway
+    class Runway
+    {
+        public readonly Guid Id = Guid.NewGuid();
+        private Aircraft? _aircraft;
+        private IAirTrafficMediator? _mediator;
+
+        public void SetMediator(IAirTrafficMediator mediator)
         {
-            public readonly Guid Id = Guid.NewGuid();
-            public Aircraft? IsBusyWithAircraft;
+            _mediator = mediator;
+        }
 
-            public bool CheckIsActive()
-            {
-                bool result = false;
-                if (this.IsBusyWithAircraft != null)
-                {
-                    result = this.IsBusyWithAircraft.IsTakingOff;
-                }
-                return result;
-            }
+        public bool CheckIsActive()
+        {
+            return _aircraft?.IsTakingOff ?? false;
+        }
 
-            public void HighLightRed()
-            {
-                Console.WriteLine($"Runway {this.Id} is busy!");
-            }
+        public void AssignAircraft(Aircraft aircraft)
+        {
+            _aircraft = aircraft;
+            HighLightRed();
+        }
 
-            public void HighLightGreen()
-            {
-                Console.WriteLine($"Runway {this.Id} is free!");
-            }
+        public void ClearRunway()
+        {
+            _aircraft = null;
+            HighLightGreen();
+        }
+
+        private void HighLightRed()
+        {
+            Console.WriteLine($"Runway {Id} is now busy!");
+        }
+
+        private void HighLightGreen()
+        {
+            Console.WriteLine($"Runway {Id} is now free!");
         }
     }
-
+}
