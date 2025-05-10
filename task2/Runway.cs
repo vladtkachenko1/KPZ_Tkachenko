@@ -13,29 +13,36 @@ namespace task2
             _mediator = mediator;
         }
 
-        public bool CheckIsActive()
+        public bool IsFree()
         {
-            return _aircraft?.IsTakingOff ?? false;
+            return _aircraft == null;
         }
 
         public void AssignAircraft(Aircraft aircraft)
         {
-            _aircraft = aircraft;
-            HighLightRed();
+            if (_aircraft == null)
+            {
+                _aircraft = aircraft;
+                HighlightRed();
+            }
+            else
+            {
+                Console.WriteLine($"Error: Runway {Id} is already occupied by aircraft {_aircraft.Name}!");
+            }
         }
 
         public void ClearRunway()
         {
             _aircraft = null;
-            HighLightGreen();
+            HighlightGreen();
         }
 
-        private void HighLightRed()
+        public void HighlightRed()
         {
             Console.WriteLine($"Runway {Id} is now busy!");
         }
 
-        private void HighLightGreen()
+        public void HighlightGreen()
         {
             Console.WriteLine($"Runway {Id} is now free!");
         }

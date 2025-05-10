@@ -7,9 +7,16 @@ namespace task2
     {
         private List<Runway> _runways = new List<Runway>();
         private List<Aircraft> _aircrafts = new List<Aircraft>();
+        private CommandCentre? _mediator;
+
+        public void SetMediator(CommandCentre mediator)
+        {
+            _mediator = mediator;
+        }
 
         public CommandCentre(Runway[] runways, Aircraft[] aircrafts)
         {
+
             _runways.AddRange(runways);
             _aircrafts.AddRange(aircrafts);
 
@@ -28,7 +35,7 @@ namespace task2
         {
             foreach (var runway in _runways)
             {
-                if (!runway.CheckIsActive())
+                if (runway.IsFree())
                 {
                     Console.WriteLine($"Aircraft {aircraft.Name} is landing on runway {runway.Id}.");
                     runway.AssignAircraft(aircraft);
@@ -37,8 +44,9 @@ namespace task2
                 }
             }
 
-            Console.WriteLine($"No available runway for Aircraft {aircraft.Name} to land.");
+            Console.WriteLine($"No available runway for aircraft {aircraft.Name} to land.");
         }
+
 
         public void RequestTakeOff(Aircraft aircraft)
         {
