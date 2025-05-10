@@ -1,9 +1,8 @@
-﻿
-using task5;
+﻿using System;
 
-class Program
+public class Program
 {
-    static void Main()
+    public static void Main()
     {
         Console.OutputEncoding = System.Text.Encoding.UTF8;
         Console.InputEncoding = System.Text.Encoding.UTF8;
@@ -20,6 +19,9 @@ class Program
             Console.WriteLine("2. Скасувати останню зміну");
             Console.WriteLine("3. Показати документ");
             Console.WriteLine("4. Вийти");
+            Console.WriteLine("5. Переглянути збережені версії");
+            Console.WriteLine("6. Відновити збережену версію");
+            Console.WriteLine("7. Зберегти документ у файл");
             Console.Write("Ваш вибір: ");
 
             string choice = Console.ReadLine();
@@ -43,6 +45,23 @@ class Program
 
                 case "4":
                     running = false;
+                    break;
+
+                case "5":
+                    editor.ShowSavedVersions();
+                    break;
+
+                case "6":
+                    Console.Write("Введіть номер версії для відновлення: ");
+                    if (int.TryParse(Console.ReadLine(), out int versionIndex))
+                        editor.Restore(versionIndex - 1);
+                    else
+                        Console.WriteLine("Невірний формат числа.");
+                    break;
+
+                case "7":
+                    editor.SaveToFile();
+
                     break;
 
                 default:
