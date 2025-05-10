@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\OneDrive\\Рабочий стол\\Політех\\2 курс\\КПЗ\\Lab4\\Lab4\\task2\\task2.csproj": {}
+    "C:\\Users\\User\\OneDrive\\Рабочий стол\\Політех\\2 курс\\2 семестр\\КПЗ\\Lab4\\Lab4\\task2\\task2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\OneDrive\\Рабочий стол\\Політех\\2 курс\\КПЗ\\Lab4\\Lab4\\task2\\task2.csproj": {
+    "C:\\Users\\User\\OneDrive\\Рабочий стол\\Політех\\2 курс\\2 семестр\\КПЗ\\Lab4\\Lab4\\task2\\task2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\OneDrive\\Рабочий стол\\Політех\\2 курс\\КПЗ\\Lab4\\Lab4\\task2\\task2.csproj",
+        "projectUniqueName": "C:\\Users\\User\\OneDrive\\Рабочий стол\\Політех\\2 курс\\2 семестр\\КПЗ\\Lab4\\Lab4\\task2\\task2.csproj",
         "projectName": "task2",
-        "projectPath": "C:\\Users\\User\\OneDrive\\Рабочий стол\\Політех\\2 курс\\КПЗ\\Lab4\\Lab4\\task2\\task2.csproj",
+        "projectPath": "C:\\Users\\User\\OneDrive\\Рабочий стол\\Політех\\2 курс\\2 семестр\\КПЗ\\Lab4\\Lab4\\task2\\task2.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\OneDrive\\Рабочий стол\\Політех\\2 курс\\КПЗ\\Lab4\\Lab4\\task2\\obj\\",
+        "outputPath": "C:\\Users\\User\\OneDrive\\Рабочий стол\\Політех\\2 курс\\2 семестр\\КПЗ\\Lab4\\Lab4\\task2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
