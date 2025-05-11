@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Text;
 
 namespace Composer
 {
@@ -14,7 +10,31 @@ namespace Composer
         public List<string> CssClasses { get; set; }
         public List<LightNode> Children { get; set; }
 
-        private readonly Dictionary<string, List<Action>> _eventListeners = new();
+        private Dictionary<string, List<Action>> _eventListeners;
+
+        public LightElementNode(string tagName, string displayType = "block", bool isSelfClosing = false)
+        {
+            TagName = tagName;
+            DisplayType = displayType;
+            IsSelfClosing = isSelfClosing;
+            CssClasses = new List<string>();
+            Children = new List<LightNode>();
+            _eventListeners = new Dictionary<string, List<Action>>();
+        }
+        public void AddClass(string className)
+        {
+            CssClasses.Add(className);
+        }
+
+        public void AddChild(LightNode child)
+        {
+            Children.Add(child);
+        }
+
+        public int ChildrenCount()
+        {
+            return Children.Count;
+        }
 
         public void AddEventListener(string eventType, Action listener)
         {
@@ -31,34 +51,9 @@ namespace Composer
             {
                 foreach (var listener in _eventListeners[eventType])
                 {
-                    listener.Invoke();
+                    listener();
                 }
             }
-        }
-
-
-        public LightElementNode(string tagName, string displayType = "block", bool isSelfClosing = false)
-        {
-            TagName = tagName;
-            DisplayType = displayType;
-            IsSelfClosing = isSelfClosing;
-            CssClasses = new List<string>();
-            Children = new List<LightNode>();
-        }
-
-        public void AddClass(string className)
-        {
-            CssClasses.Add(className);
-        }
-
-        public void AddChild(LightNode child)
-        {
-            Children.Add(child);
-        }
-
-        public int ChildrenCount()
-        {
-            return Children.Count;
         }
 
         public override string InnerHTML()
@@ -83,5 +78,4 @@ namespace Composer
             return $"<{TagName}{classes}>{InnerHTML()}</{TagName}>";
         }
     }
-
 }

@@ -1,7 +1,4 @@
-﻿using System;
-using Composer;
-
-namespace Composer
+﻿namespace Composer
 {
     class Program
     {
@@ -21,23 +18,16 @@ namespace Composer
             var ul = new LightElementNode("ul");
             ul.AddClass("my-list");
 
-            var listItems = new List<LightElementNode>();
-
             for (int i = 1; i <= 3; i++)
             {
                 var li = new LightElementNode("li");
                 li.AddChild(new LightTextNode($"Елемент списку {i}"));
 
-                int localIndex = i;
-
-                // Додаємо обробник події "click"
+                int localIndex = i; 
                 li.AddEventListener("click", () => Console.WriteLine($"Клік по елементу списку {localIndex}"));
-
-                // Додаємо обробник події "mouseover"
-                li.AddEventListener("mouseover", () => Console.WriteLine($"Навели курсор на елемент списку {localIndex}"));
+                li.AddEventListener("mouseover", () => Console.WriteLine($"Мишка на елементі списку {localIndex}"));
 
                 ul.AddChild(li);
-                listItems.Add(li);
             }
 
             Console.WriteLine("innerHTML:");
@@ -46,19 +36,25 @@ namespace Composer
             Console.WriteLine("\nouterHTML:");
             Console.WriteLine(ul.OuterHTML());
 
-            Console.WriteLine("\nСимуляція події 'click' для кожного елемента списку:");
-            foreach (var li in listItems)
-            {
-                li.TriggerEvent("click");
-            }
-
-            Console.WriteLine("\nСимуляція події 'mouseover' для кожного елемента списку:");
-            foreach (var li in listItems)
-            {
-                li.TriggerEvent("mouseover");
-            }
+            Console.WriteLine("\nСимуляція подій для кожного елемента списку:");
+            SimulateEvents(ul); 
         }
 
+        // Метод для симуляції подій
+        static void SimulateEvents(LightElementNode ul)
+        {
+            foreach (var child in ul.Children)
+            {
+                if (child is LightElementNode elementNode)
+                {
+                    Console.WriteLine($"Симуляція події 'click' для елемента: {elementNode.InnerHTML()}");
+                    elementNode.TriggerEvent("click");
+
+                    Console.WriteLine($"Симуляція події 'mouseover' для елемента: {elementNode.InnerHTML()}");
+                    elementNode.TriggerEvent("mouseover");
+                }
+            }
+        }
 
         static void RunTask6()
         {
