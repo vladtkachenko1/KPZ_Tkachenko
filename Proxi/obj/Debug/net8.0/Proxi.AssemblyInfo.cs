@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Proxi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20373ccf3742efd52b4aae8fb5ec4ec2075e5561")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b7e0c714ed92a0541f5157eae1564c5a1503336")]
 [assembly: System.Reflection.AssemblyProductAttribute("Proxi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Proxi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
