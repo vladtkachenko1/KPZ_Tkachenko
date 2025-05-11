@@ -24,5 +24,10 @@ namespace Composer
         {
             return Text;
         }
+        public override void TriggerEvent(string eventType)
+        {
+            // Нічого не робимо, бо текстові вузли не підтримують події
+        }
+
     }
 }

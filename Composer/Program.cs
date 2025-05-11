@@ -5,7 +5,6 @@ namespace Composer
 {
     class Program
     {
-
         static void Main()
         {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
@@ -22,11 +21,23 @@ namespace Composer
             var ul = new LightElementNode("ul");
             ul.AddClass("my-list");
 
+            var listItems = new List<LightElementNode>();
+
             for (int i = 1; i <= 3; i++)
             {
                 var li = new LightElementNode("li");
                 li.AddChild(new LightTextNode($"Елемент списку {i}"));
+
+                int localIndex = i;
+
+                // Додаємо обробник події "click"
+                li.AddEventListener("click", () => Console.WriteLine($"Клік по елементу списку {localIndex}"));
+
+                // Додаємо обробник події "mouseover"
+                li.AddEventListener("mouseover", () => Console.WriteLine($"Навели курсор на елемент списку {localIndex}"));
+
                 ul.AddChild(li);
+                listItems.Add(li);
             }
 
             Console.WriteLine("innerHTML:");
@@ -34,7 +45,20 @@ namespace Composer
 
             Console.WriteLine("\nouterHTML:");
             Console.WriteLine(ul.OuterHTML());
+
+            Console.WriteLine("\nСимуляція події 'click' для кожного елемента списку:");
+            foreach (var li in listItems)
+            {
+                li.TriggerEvent("click");
+            }
+
+            Console.WriteLine("\nСимуляція події 'mouseover' для кожного елемента списку:");
+            foreach (var li in listItems)
+            {
+                li.TriggerEvent("mouseover");
+            }
         }
+
 
         static void RunTask6()
         {

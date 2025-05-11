@@ -16,25 +16,27 @@ namespace Composer
 
         private readonly Dictionary<string, List<Action>> _eventListeners = new();
 
-        public void AddEventListener(string eventType, Action callback)
+        public void AddEventListener(string eventType, Action listener)
         {
             if (!_eventListeners.ContainsKey(eventType))
             {
                 _eventListeners[eventType] = new List<Action>();
             }
-            _eventListeners[eventType].Add(callback);
+            _eventListeners[eventType].Add(listener);
         }
 
         public void TriggerEvent(string eventType)
         {
             if (_eventListeners.ContainsKey(eventType))
             {
-                foreach (var callback in _eventListeners[eventType])
+                foreach (var listener in _eventListeners[eventType])
                 {
-                    callback.Invoke();
+                    listener.Invoke();
                 }
             }
         }
+
+
         public LightElementNode(string tagName, string displayType = "block", bool isSelfClosing = false)
         {
             TagName = tagName;
