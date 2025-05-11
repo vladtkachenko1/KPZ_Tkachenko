@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Text;
 
 namespace Composer
 {
@@ -14,6 +10,8 @@ namespace Composer
         public List<string> CssClasses { get; set; }
         public List<LightNode> Children { get; set; }
 
+        private Dictionary<string, List<Action>> _eventListeners;
+
         public LightElementNode(string tagName, string displayType = "block", bool isSelfClosing = false)
         {
             TagName = tagName;
@@ -21,8 +19,8 @@ namespace Composer
             IsSelfClosing = isSelfClosing;
             CssClasses = new List<string>();
             Children = new List<LightNode>();
+            _eventListeners = new Dictionary<string, List<Action>>();
         }
-
         public void AddClass(string className)
         {
             CssClasses.Add(className);
@@ -36,6 +34,26 @@ namespace Composer
         public int ChildrenCount()
         {
             return Children.Count;
+        }
+
+        public void AddEventListener(string eventType, Action listener)
+        {
+            if (!_eventListeners.ContainsKey(eventType))
+            {
+                _eventListeners[eventType] = new List<Action>();
+            }
+            _eventListeners[eventType].Add(listener);
+        }
+
+        public void TriggerEvent(string eventType)
+        {
+            if (_eventListeners.ContainsKey(eventType))
+            {
+                foreach (var listener in _eventListeners[eventType])
+                {
+                    listener();
+                }
+            }
         }
 
         public override string InnerHTML()
@@ -60,5 +78,4 @@ namespace Composer
             return $"<{TagName}{classes}>{InnerHTML()}</{TagName}>";
         }
     }
-
 }
