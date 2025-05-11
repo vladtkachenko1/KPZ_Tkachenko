@@ -18,14 +18,13 @@
 
         static void RunTask4()
         {
-            var fileImage = new LightImageNode("C:\\Users\\User\\Downloads\\природа.jpeg", new FileImageLoadingStrategy());
-            var webImage = new LightImageNode("https://wallpaper.forfun.com/fetch/20/2032496c8644d978861803bee90e18c0.jpeg", new NetworkImageLoadingStrategy());
+            var imageFolder = "DownloadedImages";
 
-            Console.WriteLine("Зображення з файлу:");
-            Console.WriteLine(fileImage.OuterHTML());
+            var fileImage = new LightImageNode("C:\\Users\\User\\Downloads\\природа.jpeg", new FileImageLoadingStrategy(), imageFolder);
+            var webImage = new LightImageNode("https://wallpaper.forfun.com/fetch/20/2032496c8644d978861803bee90e18c0.jpeg", new NetworkImageLoadingStrategy(), imageFolder);
 
-            Console.WriteLine("\nЗображення з мережі:");
-            Console.WriteLine(webImage.OuterHTML());
+            Console.WriteLine("file image HTML: " + fileImage.OuterHTML());
+            Console.WriteLine("web image HTML: " + webImage.OuterHTML());
         }
 
         static void RunTask5()

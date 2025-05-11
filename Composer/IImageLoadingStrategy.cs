@@ -8,7 +8,7 @@ namespace Composer
 {
     public interface IImageLoadingStrategy
     {
-        string LoadImage(string href);
+        string LoadImage(string href, string targetFolder);
     }
 }
 

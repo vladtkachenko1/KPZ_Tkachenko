@@ -1,16 +1,26 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Composer;
+using System.Net;
 
-namespace Composer
+public class NetworkImageLoadingStrategy : IImageLoadingStrategy
 {
-    public class NetworkImageLoadingStrategy : IImageLoadingStrategy
+    public string LoadImage(string href, string targetFolder)
     {
-        public string LoadImage(string href)
+        try
         {
-            return $"<img src=\"{href}\"/>";
+            Directory.CreateDirectory(targetFolder);
+            string fileName = Path.GetFileName(new Uri(href).LocalPath);
+            string destinationPath = Path.Combine(targetFolder, fileName);
+
+            using (var client = new WebClient())
+            {
+                client.DownloadFile(href, destinationPath);
+            }
+
+            return destinationPath;
+        }
+        catch (Exception ex)
+        {
+            return $"[Помилка завантаження: {ex.Message}]";
         }
     }
 }

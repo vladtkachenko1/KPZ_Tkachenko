@@ -8,23 +8,26 @@ namespace Composer
 {
     public class LightImageNode : LightNode
     {
-        public string Href { get; set; }
-        private readonly IImageLoadingStrategy _strategy;
+        private string _href;
+        private IImageLoadingStrategy _loadingStrategy;
+        private string _targetFolder;
 
-        public LightImageNode(string href, IImageLoadingStrategy strategy)
+        public LightImageNode(string href, IImageLoadingStrategy loadingStrategy, string targetFolder)
         {
-            Href = href;
-            _strategy = strategy;
+            _href = href;
+            _loadingStrategy = loadingStrategy;
+            _targetFolder = targetFolder;
         }
+
+        public override string InnerHTML() => string.Empty;
 
         public override string OuterHTML()
         {
-            return _strategy.LoadImage(Href);
+            string finalSrc = _loadingStrategy.LoadImage(_href, _targetFolder);
+            return $"<img src=\"{finalSrc}\" />";
         }
 
-        public override string InnerHTML()
-        {
-            return string.Empty;
-        }
+        public override void TriggerEvent(string eventType) { }
     }
+
 }
