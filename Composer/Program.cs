@@ -6,11 +6,26 @@
         {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
 
+            Console.WriteLine("========= Демонстрація Виконання завдання 4 Лабораторної роботи №4 =========");
+            RunTask4();
+
             Console.WriteLine("========= Завдання 5 =========");
             RunTask5();
 
             Console.WriteLine("\n========= Завдання 6 =========");
             RunTask6();
+        }
+
+        static void RunTask4()
+        {
+            var fileImage = new LightImageNode("C:\\Users\\User\\Downloads\\природа.jpeg", new FileImageLoadingStrategy());
+            var webImage = new LightImageNode("https://wallpaper.forfun.com/fetch/20/2032496c8644d978861803bee90e18c0.jpeg", new NetworkImageLoadingStrategy());
+
+            Console.WriteLine("Зображення з файлу:");
+            Console.WriteLine(fileImage.OuterHTML());
+
+            Console.WriteLine("\nЗображення з мережі:");
+            Console.WriteLine(webImage.OuterHTML());
         }
 
         static void RunTask5()
@@ -23,7 +38,7 @@
                 var li = new LightElementNode("li");
                 li.AddChild(new LightTextNode($"Елемент списку {i}"));
 
-                int localIndex = i; 
+                int localIndex = i;
                 li.AddEventListener("click", () => Console.WriteLine($"Клік по елементу списку {localIndex}"));
                 li.AddEventListener("mouseover", () => Console.WriteLine($"Мишка на елементі списку {localIndex}"));
 
@@ -37,10 +52,9 @@
             Console.WriteLine(ul.OuterHTML());
 
             Console.WriteLine("\nСимуляція подій для кожного елемента списку:");
-            SimulateEvents(ul); 
+            SimulateEvents(ul);
         }
 
-        // Метод для симуляції подій
         static void SimulateEvents(LightElementNode ul)
         {
             foreach (var child in ul.Children)
