@@ -19,8 +19,6 @@ namespace Composer
             {
                 _cache[tagName] = new LightElementNode(tagName);
             }
-
-            // Створюємо новий екземпляр на основі кешованого шаблону
             var template = _cache[tagName];
             return new LightElementNode(template.TagName);
         }

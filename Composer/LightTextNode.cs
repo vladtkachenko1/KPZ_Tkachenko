@@ -1,12 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Composer
+﻿namespace Composer
 {
-    class LightTextNode : LightNode
+    public class LightTextNode : LightNode
     {
         public string Text { get; set; }
 
@@ -22,7 +16,11 @@ namespace Composer
 
         public override string OuterHTML()
         {
-            return Text;
+            return Text; 
+        }
+
+        public override void TriggerEvent(string eventType)
+        {
         }
     }
 }

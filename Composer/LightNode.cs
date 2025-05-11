@@ -10,5 +10,8 @@ namespace Composer
     {
         public abstract string OuterHTML();
         public abstract string InnerHTML();
+        public virtual void AddEventListener(string eventType, Action callback) { }
+        public virtual void TriggerEvent(string eventType) { }
+
     }
 }
