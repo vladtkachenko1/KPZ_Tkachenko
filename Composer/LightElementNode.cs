@@ -14,6 +14,27 @@ namespace Composer
         public List<string> CssClasses { get; set; }
         public List<LightNode> Children { get; set; }
 
+        private readonly Dictionary<string, List<Action>> _eventListeners = new();
+
+        public void AddEventListener(string eventType, Action callback)
+        {
+            if (!_eventListeners.ContainsKey(eventType))
+            {
+                _eventListeners[eventType] = new List<Action>();
+            }
+            _eventListeners[eventType].Add(callback);
+        }
+
+        public void TriggerEvent(string eventType)
+        {
+            if (_eventListeners.ContainsKey(eventType))
+            {
+                foreach (var callback in _eventListeners[eventType])
+                {
+                    callback.Invoke();
+                }
+            }
+        }
         public LightElementNode(string tagName, string displayType = "block", bool isSelfClosing = false)
         {
             TagName = tagName;
