@@ -82,5 +82,21 @@ namespace Composer
 
             return $"<{TagName}{classes}>{InnerHTML()}</{TagName}>";
         }
+
+        private IElementState _state;
+
+        public void SetState(IElementState newState)
+        {
+            _state = newState;
+        }
+
+        public void ApplyCurrentState()
+        {
+            if (_state != null)
+            {
+                _state.Apply(this);
+            }
+        }
+
     }
 }
