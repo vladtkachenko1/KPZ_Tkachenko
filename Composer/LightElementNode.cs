@@ -10,6 +10,7 @@ namespace Composer
         public List<string> CssClasses { get; set; }
         public List<LightNode> Children { get; set; }
 
+
         private Dictionary<string, List<Action>> _eventListeners;
 
         public LightElementNode(string tagName, string displayType = "block", bool isSelfClosing = false)
@@ -81,6 +82,14 @@ namespace Composer
             }
 
             return $"<{TagName}{classes}>{InnerHTML()}</{TagName}>";
+        }
+        public override void Accept(ILightNodeVisitor visitor)
+        {
+            visitor.VisitElement(this);
+            foreach (var child in Children)
+            {
+                child.Accept(visitor);
+            }
         }
 
         private IElementState _state;

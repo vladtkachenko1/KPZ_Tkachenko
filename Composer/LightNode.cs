@@ -12,6 +12,7 @@ namespace Composer
         public abstract string InnerHTML();
         public virtual void AddEventListener(string eventType, Action callback) { }
         public virtual void TriggerEvent(string eventType) { }
+        public abstract void Accept(ILightNodeVisitor visitor);
 
     }
 }
