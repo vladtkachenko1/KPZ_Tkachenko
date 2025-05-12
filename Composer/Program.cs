@@ -15,6 +15,10 @@
             Console.WriteLine("\n========= Шаблон 2: Ітератор =========");
             RunIteratorDemo();
 
+            Console.WriteLine("\n========= Шаблон 3: Команда =========");
+            RunCommandPatternDemo();
+
+
 
             Console.WriteLine("\n\n========= Демонстрація Виконання завдання 4 Лабораторної роботи №4 =========");
             RunTask4();
@@ -59,6 +63,33 @@
                 }
             }
         }
+        static void RunCommandPatternDemo()
+        {
+            var invoker = new CommandInvoker();
+            var div = new LightElementNode("div");
+            var span = new LightElementNode("span");
+            var text = new LightTextNode("Привіт, світ!");
+
+            var addTextCommand = new AddElementCommand(span, text);
+            var addSpanCommand = new AddElementCommand(div, span);
+            var addClassCommand = new AddClassCommand(div, "highlight");
+
+            invoker.ExecuteCommand(addClassCommand);
+            invoker.ExecuteCommand(addSpanCommand);
+            invoker.ExecuteCommand(addTextCommand);
+
+            Console.WriteLine("HTML після виконання команд:");
+            Console.WriteLine(div.OuterHTML());
+
+            Console.WriteLine("\nСкасовуємо останню команду:");
+            invoker.UndoLast();
+            Console.WriteLine(div.OuterHTML());
+
+            Console.WriteLine("\nСкасовуємо ще одну команду:");
+            invoker.UndoLast();
+            Console.WriteLine(div.OuterHTML());
+        }
+
 
         static void RunTask4()
         {
