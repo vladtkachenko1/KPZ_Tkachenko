@@ -21,13 +21,16 @@
             Console.WriteLine("\n========= Шаблон 4: Стейт =========");
             RunStatePatternDemo();
 
+            Console.WriteLine("\n========= Шаблон 5: Відвідувач =========");
+            RunVisitorDemo();
+
 
 
 
             Console.WriteLine("\n\n========= Демонстрація Виконання завдання 4 Лабораторної роботи №4 =========");
             RunTask4();
 
-            Console.WriteLine("========= Завдання 5 =========");
+            Console.WriteLine("\n========= Завдання 5 =========");
             RunTask5();
 
             Console.WriteLine("\n========= Завдання 6 =========");
@@ -108,6 +111,33 @@
 
             Console.WriteLine("HTML:");
             Console.WriteLine(div.OuterHTML());
+        }
+
+        static void RunVisitorDemo()
+        {
+            var div = new LightElementNode("div");
+            var p = new LightElementNode("p");
+            var span = new LightElementNode("span");
+
+            span.AddChild(new LightTextNode("Привіт"));
+            p.AddChild(span);
+            p.AddChild(new LightTextNode("світ!"));
+            div.AddChild(p);
+
+            Console.WriteLine("Відвідування вузлів дерева HTML...");
+
+            var textVisitor = new TextContentCollectorVisitor();
+            div.Accept(textVisitor);
+
+            Console.WriteLine("\n---Зібраний текст---");
+            Console.WriteLine(textVisitor.GetText());
+
+
+            Console.WriteLine("\n---Кількість елементів---");
+            var countVisitor = new NodeCounterVisitor();
+            div.Accept(countVisitor);
+
+            countVisitor.PrintCounts();
         }
 
 

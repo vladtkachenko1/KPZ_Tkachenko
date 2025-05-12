@@ -8,6 +8,7 @@ namespace Composer
 {
     public class LightImageNode : LightNode
     {
+
         private string _href;
         private IImageLoadingStrategy _loadingStrategy;
         private string _targetFolder;
@@ -28,6 +29,10 @@ namespace Composer
         }
 
         public override void TriggerEvent(string eventType) { }
+        public override void Accept(ILightNodeVisitor visitor)
+        {
+        }
+
     }
 
 }
