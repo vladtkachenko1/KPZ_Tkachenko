@@ -12,6 +12,10 @@
             Console.WriteLine("\n========= Шаблон 1: Шаблонний метод =========");
             RunTemplateMethodDemo();
 
+            Console.WriteLine("\n========= Шаблон 2: Ітератор =========");
+            RunIteratorDemo();
+
+
             Console.WriteLine("\n\n========= Демонстрація Виконання завдання 4 Лабораторної роботи №4 =========");
             RunTask4();
 
@@ -25,6 +29,35 @@
         {
             var div = new CustomDivElement();
             div.RenderWithLifecycle();
+        }
+        static void RunIteratorDemo()
+        {
+            var div = new LightElementNode("div");
+            var p = new LightElementNode("p");
+            var span = new LightElementNode("span");
+            var text1 = new LightTextNode("Це текст у span");
+            var text2 = new LightTextNode("Це текст у p");
+
+            span.AddChild(text1);
+            p.AddChild(span);
+            p.AddChild(text2);
+            div.AddChild(p);
+
+            var iterator = new ElementIterator(div);
+
+            Console.WriteLine("Обхід елементів дерева:");
+            while (iterator.HasNext())
+            {
+                var node = iterator.Next();
+                if (node is LightTextNode textNode)
+                {
+                    Console.WriteLine($"Text node: {textNode.Text}");
+                }
+                else if (node is LightElementNode elementNode)
+                {
+                    Console.WriteLine($"Element node: <{elementNode.TagName}>");
+                }
+            }
         }
 
         static void RunTask4()

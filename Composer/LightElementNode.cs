@@ -56,6 +56,11 @@ namespace Composer
             }
         }
 
+        public ElementIterator GetIterator()
+        {
+            return new ElementIterator(this);
+        }
+
         public override string InnerHTML()
         {
             StringBuilder sb = new StringBuilder();
