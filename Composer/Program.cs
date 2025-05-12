@@ -6,7 +6,13 @@
         {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
 
-            Console.WriteLine("========= Демонстрація Виконання завдання 4 Лабораторної роботи №4 =========");
+
+            Console.WriteLine("========= ФІЧІ ПРОЄКТУ =========");
+
+            Console.WriteLine("\n========= Шаблон 1: Шаблонний метод =========");
+            RunTemplateMethodDemo();
+
+            Console.WriteLine("\n\n========= Демонстрація Виконання завдання 4 Лабораторної роботи №4 =========");
             RunTask4();
 
             Console.WriteLine("========= Завдання 5 =========");
@@ -14,6 +20,11 @@
 
             Console.WriteLine("\n========= Завдання 6 =========");
             RunTask6();
+        }
+        static void RunTemplateMethodDemo()
+        {
+            var div = new CustomDivElement();
+            div.RenderWithLifecycle();
         }
 
         static void RunTask4()
