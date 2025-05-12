@@ -18,6 +18,10 @@
             Console.WriteLine("\n========= Шаблон 3: Команда =========");
             RunCommandPatternDemo();
 
+            Console.WriteLine("\n========= Шаблон 4: Стейт =========");
+            RunStatePatternDemo();
+
+
 
 
             Console.WriteLine("\n\n========= Демонстрація Виконання завдання 4 Лабораторної роботи №4 =========");
@@ -89,6 +93,23 @@
             invoker.UndoLast();
             Console.WriteLine(div.OuterHTML());
         }
+        static void RunStatePatternDemo()
+        {
+            var div = new LightElementNode("div");
+
+            div.SetState(new VisibleState());
+            div.ApplyCurrentState();
+
+            div.SetState(new HiddenState());
+            div.ApplyCurrentState();
+
+            div.SetState(new DisabledState());
+            div.ApplyCurrentState();
+
+            Console.WriteLine("HTML:");
+            Console.WriteLine(div.OuterHTML());
+        }
+
 
 
         static void RunTask4()
