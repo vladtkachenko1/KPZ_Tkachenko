@@ -1,4 +1,6 @@
-﻿namespace Composer
+﻿using Composer.Composer;
+
+namespace Composer
 {
     class Program
     {
@@ -24,7 +26,8 @@
             Console.WriteLine("\n========= Шаблон 5: Відвідувач =========");
             RunVisitorDemo();
 
-
+            Console.WriteLine("\n========= Шаблон 6: Абстрактна фабрика =========");
+            RunAbstractFactoryDemo();
 
 
             Console.WriteLine("\n\n========= Демонстрація Виконання завдання 4 Лабораторної роботи №4 =========");
@@ -140,6 +143,36 @@
             countVisitor.PrintCounts();
         }
 
+        static void RunAbstractFactoryDemo()
+        {
+            ILightNodeFactory styledFactory = new StyledHtmlFactory(cssClass: "important", imageFolder: "CustomStyledImages");
+
+            var div = styledFactory.CreateElement("div");
+            var paragraph = styledFactory.CreateElement("p");
+            var text = styledFactory.CreateText("Привіт, фабричний світ!");
+            var image = styledFactory.CreateImage("https://wallpaper.forfun.com/fetch/20/2032496c8644d978861803bee90e18c0.jpeg");
+
+            paragraph.AddChild(text);
+            div.AddChild(paragraph);
+            div.AddChild(image);
+
+            Console.WriteLine("HTML з styled фабрики:");
+            Console.WriteLine(div.OuterHTML());
+
+            ILightNodeFactory standardFactory = new StandardHtmlFactory(imageFolder: "MyDownloads");
+
+            var div2 = standardFactory.CreateElement("div");
+            var paragraph2 = standardFactory.CreateElement("p");
+            var text2 = standardFactory.CreateText("Привіт зі стандартної фабрики!");
+            var image2 = standardFactory.CreateImage("C:\\Users\\User\\Downloads\\природа.jpeg");
+
+            paragraph2.AddChild(text2);
+            div2.AddChild(paragraph2);
+            div2.AddChild(image2);
+
+            Console.WriteLine("\nHTML зі стандартної фабрики:");
+            Console.WriteLine(div2.OuterHTML());
+        }
 
 
         static void RunTask4()
