@@ -1,28 +1,28 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Composer;
 
-namespace Composer
+public class LightTextNode : LightNode
 {
-    class LightTextNode : LightNode
+    public string Text { get; set; }
+
+    public LightTextNode(string text)
     {
-        public string Text { get; set; }
+        Text = text;
+    }
 
-        public LightTextNode(string text)
-        {
-            Text = text;
-        }
+    public override string InnerHTML()
+    {
+        return Text;
+    }
 
-        public override string InnerHTML()
-        {
-            return Text;
-        }
+    public override string OuterHTML()
+    {
+        return Text;
+    }
 
-        public override string OuterHTML()
-        {
-            return Text;
-        }
+    public override void TriggerEvent(string eventType) { }
+
+    public override void Accept(ILightNodeVisitor visitor)
+    {
+        visitor.VisitText(this);
     }
 }

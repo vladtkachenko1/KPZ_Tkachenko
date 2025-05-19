@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Composer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e5a35d5e6441bc17911136996c16decf6eafa7e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee922cf314eeaf7d8af51041e9a9585bef5815d7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Composer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Composer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

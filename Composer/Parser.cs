@@ -16,7 +16,7 @@ namespace Composer
         public static LightElementNode ParseBook(string filePath, ElementFlyweightFactory factory)
         {
             var lines = File.ReadAllLines(filePath);
-            var root = factory.GetElement("div"); // Кореневий вузол
+            var root = factory.GetElement("div"); 
 
             for (int i = 0; i < lines.Length; i++)
             {

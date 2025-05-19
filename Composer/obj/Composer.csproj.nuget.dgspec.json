@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\OneDrive\\Рабочий стол\\Політех\\2 курс\\КПЗ\\Lab3\\Composer\\Composer.csproj": {}
+    "C:\\Users\\User\\OneDrive\\Рабочий стол\\Політех\\2 курс\\2 семестр\\КПЗ\\Lab4_4\\Composer\\Composer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\OneDrive\\Рабочий стол\\Політех\\2 курс\\КПЗ\\Lab3\\Composer\\Composer.csproj": {
+    "C:\\Users\\User\\OneDrive\\Рабочий стол\\Політех\\2 курс\\2 семестр\\КПЗ\\Lab4_4\\Composer\\Composer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\OneDrive\\Рабочий стол\\Політех\\2 курс\\КПЗ\\Lab3\\Composer\\Composer.csproj",
+        "projectUniqueName": "C:\\Users\\User\\OneDrive\\Рабочий стол\\Політех\\2 курс\\2 семестр\\КПЗ\\Lab4_4\\Composer\\Composer.csproj",
         "projectName": "Composer",
-        "projectPath": "C:\\Users\\User\\OneDrive\\Рабочий стол\\Політех\\2 курс\\КПЗ\\Lab3\\Composer\\Composer.csproj",
+        "projectPath": "C:\\Users\\User\\OneDrive\\Рабочий стол\\Політех\\2 курс\\2 семестр\\КПЗ\\Lab4_4\\Composer\\Composer.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\OneDrive\\Рабочий стол\\Політех\\2 курс\\КПЗ\\Lab3\\Composer\\obj\\",
+        "outputPath": "C:\\Users\\User\\OneDrive\\Рабочий стол\\Політех\\2 курс\\2 семестр\\КПЗ\\Lab4_4\\Composer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

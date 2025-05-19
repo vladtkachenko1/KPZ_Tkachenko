@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\OneDrive\\Рабочий стол\\Політех\\2 курс\\КПЗ\\Lab3\\Proxi\\Proxi.csproj": {}
+    "C:\\Users\\User\\OneDrive\\Рабочий стол\\Політех\\2 курс\\2 семестр\\КПЗ\\Lab4_4\\Proxi\\Proxi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\OneDrive\\Рабочий стол\\Політех\\2 курс\\КПЗ\\Lab3\\Proxi\\Proxi.csproj": {
+    "C:\\Users\\User\\OneDrive\\Рабочий стол\\Політех\\2 курс\\2 семестр\\КПЗ\\Lab4_4\\Proxi\\Proxi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\OneDrive\\Рабочий стол\\Політех\\2 курс\\КПЗ\\Lab3\\Proxi\\Proxi.csproj",
+        "projectUniqueName": "C:\\Users\\User\\OneDrive\\Рабочий стол\\Політех\\2 курс\\2 семестр\\КПЗ\\Lab4_4\\Proxi\\Proxi.csproj",
         "projectName": "Proxi",
-        "projectPath": "C:\\Users\\User\\OneDrive\\Рабочий стол\\Політех\\2 курс\\КПЗ\\Lab3\\Proxi\\Proxi.csproj",
+        "projectPath": "C:\\Users\\User\\OneDrive\\Рабочий стол\\Політех\\2 курс\\2 семестр\\КПЗ\\Lab4_4\\Proxi\\Proxi.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\OneDrive\\Рабочий стол\\Політех\\2 курс\\КПЗ\\Lab3\\Proxi\\obj\\",
+        "outputPath": "C:\\Users\\User\\OneDrive\\Рабочий стол\\Політех\\2 курс\\2 семестр\\КПЗ\\Lab4_4\\Proxi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

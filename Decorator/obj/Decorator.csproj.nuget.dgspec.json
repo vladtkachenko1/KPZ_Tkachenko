@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\OneDrive\\Рабочий стол\\Політех\\2 курс\\КПЗ\\Lab3\\Decorator\\Decorator.csproj": {}
+    "C:\\Users\\User\\OneDrive\\Рабочий стол\\Політех\\2 курс\\2 семестр\\КПЗ\\Lab4_4\\Decorator\\Decorator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\OneDrive\\Рабочий стол\\Політех\\2 курс\\КПЗ\\Lab3\\Decorator\\Decorator.csproj": {
+    "C:\\Users\\User\\OneDrive\\Рабочий стол\\Політех\\2 курс\\2 семестр\\КПЗ\\Lab4_4\\Decorator\\Decorator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\OneDrive\\Рабочий стол\\Політех\\2 курс\\КПЗ\\Lab3\\Decorator\\Decorator.csproj",
+        "projectUniqueName": "C:\\Users\\User\\OneDrive\\Рабочий стол\\Політех\\2 курс\\2 семестр\\КПЗ\\Lab4_4\\Decorator\\Decorator.csproj",
         "projectName": "Decorator",
-        "projectPath": "C:\\Users\\User\\OneDrive\\Рабочий стол\\Політех\\2 курс\\КПЗ\\Lab3\\Decorator\\Decorator.csproj",
+        "projectPath": "C:\\Users\\User\\OneDrive\\Рабочий стол\\Політех\\2 курс\\2 семестр\\КПЗ\\Lab4_4\\Decorator\\Decorator.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\OneDrive\\Рабочий стол\\Політех\\2 курс\\КПЗ\\Lab3\\Decorator\\obj\\",
+        "outputPath": "C:\\Users\\User\\OneDrive\\Рабочий стол\\Політех\\2 курс\\2 семестр\\КПЗ\\Lab4_4\\Decorator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
